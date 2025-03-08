@@ -32,7 +32,7 @@ Walking Horror Simulator is a first-person survival game where the player must a
     cd WalkingHorrorSimulator
     ```
 
-3. Open `index.html` in your web browser to start the game.
+3. Start liveserver or equivalent and open `index.html` in your web browser to start the game.
 
 ## Usage
 
